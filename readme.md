@@ -20,7 +20,7 @@ each one of those wizards has special spells too.
 
 More details are provided in the pdf.
 
-## Two senario of Code Output
+## Two Scenarios of Code Outputs
 
 <br>Enter the two spells (H then V): Crucio Crucio
 <br>        Harry          Voldmort
