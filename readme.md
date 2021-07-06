@@ -21,7 +21,8 @@ each one of those wizards has special spells too.
 More details are provided in the pdf.
 
 ## Two senario of Code Output
-Enter the two spells (H then V): Crucio Crucio
+
+<br>Enter the two spells (H then V): Crucio Crucio
 <br>        Harry          Voldmort
 <br>Health: 100             100
 <br>Energy: 460             460
@@ -41,7 +42,9 @@ Enter the two spells (H then V): Crucio Crucio
 <br>Health: 0             95
 <br>Energy: 320             125
 <br>Voldmort is the winner
+
 --------------------------------------------------------------------------
+
 <br>Enter the two spells (H then V): Crucio Crucio
 <br>        Harry          Voldmort
 <br>Health: 100             100
